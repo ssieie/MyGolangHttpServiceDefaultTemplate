@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "author": "",
+  "version": "0.0.1",
+  "host": ":6789",
+  "mysqlUri": "username:password@tcp(ip:port)/libraryName",
+  "describe": "Service Is Running !!! \n"
+}
