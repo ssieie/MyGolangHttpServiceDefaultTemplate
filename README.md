@@ -1,0 +1,2 @@
+# MyGolangHttpServiceDefaultTemplate
+MyGolangHttpServiceDefaultTemplate
